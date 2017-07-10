@@ -1,4 +1,6 @@
 cat >> ~/.zshrc << EOF
+alias curl="echo 'je suis une schtroumpfette'"
+alias wget="echo 'je suis une schtroumpfette'"
 alias reset="echo 'je suis une schtroumpfette'"
 alias clear="echo 'je suis une schtroumpfette'"
 alias vim="echo 'je suis une schtroumpfette'"
